@@ -6,7 +6,6 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="ArcVRDemo" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
@@ -17,7 +16,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="0123456789ABCDEF" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="emulator-5554" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -56,7 +55,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="E:/software/Android_SDK/android_studio" />
     <property name="device.picker.selection" value="4aa4baae" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
   </component>
   <component name="RecentsManager">
@@ -93,9 +92,8 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
-        <option name="Make" enabled="false" />
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
@@ -239,29 +237,33 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="308" y="210" key="AndroidCreateResourceFileDialog/0.23.1440.797@0.23.1440.797" timestamp="1601200057109" />
-    <state width="1398" height="52" key="GridCell.Tab.0.bottom" timestamp="1601275081612">
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom" timestamp="1602241627549">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="52" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1601275081612" />
-    <state width="1398" height="52" key="GridCell.Tab.0.center" timestamp="1601275081611">
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1602241627549" />
+    <state width="1398" height="192" key="GridCell.Tab.0.center" timestamp="1602241627548">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="52" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1601275081611" />
-    <state width="1398" height="52" key="GridCell.Tab.0.left" timestamp="1601275081611">
+    <state width="1398" height="192" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1602241627548" />
+    <state width="1398" height="192" key="GridCell.Tab.0.left" timestamp="1602241627548">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="52" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1601275081611" />
-    <state width="1398" height="52" key="GridCell.Tab.0.right" timestamp="1601275081612">
+    <state width="1398" height="192" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1602241627548" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right" timestamp="1602241627549">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state width="1398" height="52" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1601275081612" />
+    <state width="1398" height="192" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1602241627549" />
+    <state x="109" y="123" width="1240" height="597" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601275353830">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="109" y="123" width="1240" height="597" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.797@0.23.1440.797" timestamp="1601275353830" />
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1601198539870">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="399" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1601198539870" />
-    <state x="386" y="178" width="667" height="486" key="find.popup" timestamp="1601256061164">
+    <state x="386" y="178" width="667" height="486" key="find.popup" timestamp="1601279447290">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="386" y="178" width="667" height="486" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1601256061164" />
+    <state x="386" y="178" width="667" height="486" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1601279447290" />
   </component>
 </project>

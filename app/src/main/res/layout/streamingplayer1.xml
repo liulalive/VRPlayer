@@ -3,7 +3,7 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     android:orientation="vertical" >
-    
+   <!--
 	<RelativeLayout
         android:id="@+id/SelectLayout"
         android:layout_width="fill_parent"
@@ -29,7 +29,7 @@
             android:drawSelectorOnTop="false"
             android:gravity="center_vertical|left" >
         </ListView>
-    </RelativeLayout>
+    </RelativeLayout>-->
 
 	<RelativeLayout
 		android:id="@+id/viewLayout"
@@ -41,7 +41,7 @@
 			android:layout_height="fill_parent"
 			/>
 	</RelativeLayout>
-	<ImageButton
+	<!--<ImageButton
 		android:id="@+id/but_play_pausel"
 		android:layout_width="64dp"
 		android:layout_height="48dp"
@@ -49,6 +49,6 @@
 		android:layout_centerVertical="true"
 		android:layout_alignParentBottom="true"
 		android:background="@drawable/ic_videoview_play"
-		android:focusable="true" />
+		android:focusable="true" />-->
 
 </AbsoluteLayout>
