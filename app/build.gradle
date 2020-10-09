@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.arcvideo.vrdemo"
+        minSdkVersion 14
+        targetSdkVersion 21
+
+        ndk {
+//            abiFilters "armeabi", "armeabi-v7a","arm64-v8a","mips","mips64","x86","x86_64"
+            ////webrtc ijkplayer 没有 armeabi so 库 但云知声只有 armeabi
+            //把 云知声 so 库 放在 armeabi-v7a
+            abiFilters "armeabi-v7a"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation files('libs/ArcMediaPlayer.jar')
+    implementation files('libs/ArcVRKit.jar')
+}

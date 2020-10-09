@@ -1,0 +1,59 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* bgl.PNG => bgl.png
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* libs\ArcMediaPlayer.jar => app\libs\ArcMediaPlayer.jar
+* libs\ArcVRKit.jar => app\libs\ArcVRKit.jar
+* libs\armeabi\libmv3_aachev2dec_arm11.so => app\src\main\jniLibs\armeabi\libmv3_aachev2dec_arm11.so
+* libs\armeabi\libmv3_aachev2dec_arm9e.so => app\src\main\jniLibs\armeabi\libmv3_aachev2dec_arm9e.so
+* libs\armeabi\libmv3_aachev2dec_neon.so => app\src\main\jniLibs\armeabi\libmv3_aachev2dec_neon.so
+* libs\armeabi\libmv3_androidreader.so => app\src\main\jniLibs\armeabi\libmv3_androidreader.so
+* libs\armeabi\libmv3_common.so => app\src\main\jniLibs\armeabi\libmv3_common.so
+* libs\armeabi\libmv3_glrenderer.so => app\src\main\jniLibs\armeabi\libmv3_glrenderer.so
+* libs\armeabi\libmv3_h264dec_arm11.so => app\src\main\jniLibs\armeabi\libmv3_h264dec_arm11.so
+* libs\armeabi\libmv3_h264dec_arm9e.so => app\src\main\jniLibs\armeabi\libmv3_h264dec_arm9e.so
+* libs\armeabi\libmv3_h264dec_neon.so => app\src\main\jniLibs\armeabi\libmv3_h264dec_neon.so
+* libs\armeabi\libmv3_jni_4.0.so => app\src\main\jniLibs\armeabi\libmv3_jni_4.0.so
+* libs\armeabi\libmv3_mp3dec.so => app\src\main\jniLibs\armeabi\libmv3_mp3dec.so
+* libs\armeabi\libmv3_mpplat.so => app\src\main\jniLibs\armeabi\libmv3_mpplat.so
+* libs\armeabi\libmv3_platform.so => app\src\main\jniLibs\armeabi\libmv3_platform.so
+* libs\armeabi\libmv3_playerbase.so => app\src\main\jniLibs\armeabi\libmv3_playerbase.so
+* libs\armeabi\libmv3_sourceparser.so => app\src\main\jniLibs\armeabi\libmv3_sourceparser.so
+* libs\armeabi\libmv3_swvideoreader.so => app\src\main\jniLibs\armeabi\libmv3_swvideoreader.so
+* libs\armeabi\libmv3_videorenderer_nw.so => app\src\main\jniLibs\armeabi\libmv3_videorenderer_nw.so
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* ic_videoview_pause.PNG => ic_videoview_pause.png
+* ic_videoview_pause_push.PNG => ic_videoview_pause_push.png
+* ic_videoview_play.PNG => ic_videoview_play.png
+* ic_videoview_play_push.PNG => ic_videoview_play_push.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.arcvideo.vrdemo",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "3.5.3.0",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.arcvideo.vrdemo",
+        "split": "",
+        "minSdkVersion": "14"
+      }
+    }
+  ]
+}

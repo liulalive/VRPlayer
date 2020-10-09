@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:1:1-155:12
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:1:1-155:12
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:1:1-155:12
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:1:1-155:12
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:1:1-155:12
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:1:1-155:12
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:1:1-155:12
+	package
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:2:5-34
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:4:5-34
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:6:2-75
+	android:glEsVersion
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:6:16-48
+	android:required
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:6:49-72
+uses-feature#android.hardware.sensor.gyroscope
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:7:19-67
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:8:19-71
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:9:19-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:16:5-67
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.RAISED_THREAD_PRIORITY
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:18:22-72
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:21:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:22:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:24:5-73
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:24:22-70
+application
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:26:5-153:19
+	android:supportsRtl
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:30:9-31
+	android:icon
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:29:9-38
+	android:allowBackup
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:27:9-36
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:28:9-37
+activity#com.arcvideo.vrdemo.Player1Activity
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:32:9-152:20
+	android:launchMode
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:36:13-43
+	android:configChanges
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:34:13-74
+	android:theme
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:35:13-71
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:33:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:40:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:rtsp
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:43:13-50:29
+action#android.intent.action.VIEW
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:47:17-78
+	android:name
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:47:27-75
+data
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
+	android:scheme
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
+	android:mimeType
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:rtmp
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:51:13-58:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:59:13-65:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:audio/*+data:scheme:http
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:66:13-74:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:video/*
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:75:13-81:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:video/*+data:scheme:http
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:82:13-90:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/sdp
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:91:13-97:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/sdp+data:scheme:http
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:98:13-106:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/x-dtcp1+data:scheme:http
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:107:13-115:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.apple.mpegurl+data:scheme:http
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:116:13-124:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:audio/mpegurl+data:scheme:http
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:125:13-133:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:audio/x-mpegurl+data:scheme:http
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:134:13-142:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/mpegURL+data:scheme:http
+ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:143:13-151:29
+uses-sdk
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml

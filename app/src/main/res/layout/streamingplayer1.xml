@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+	<RelativeLayout
+        android:id="@+id/SelectLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageButton
+            android:id="@+id/btn_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:src="@drawable/ic_videoview_add" />
+
+        <ListView
+            android:id="@+id/listitem"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/btn_add"
+            android:layout_weight="1"
+            android:drawSelectorOnTop="false"
+            android:gravity="center_vertical|left" >
+        </ListView>
+    </RelativeLayout>
+
+	<RelativeLayout
+		android:id="@+id/viewLayout"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" >
+		<com.arcvideo.vrkit.VRVideoView
+			android:id="@+id/textureView"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			/>
+	</RelativeLayout>
+	<ImageButton
+		android:id="@+id/but_play_pausel"
+		android:layout_width="64dp"
+		android:layout_height="48dp"
+		android:layout_alignParentLeft="true"
+		android:layout_centerVertical="true"
+		android:layout_alignParentBottom="true"
+		android:background="@drawable/ic_videoview_play"
+		android:focusable="true" />
+
+</AbsoluteLayout>

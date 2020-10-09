@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+	<RelativeLayout
+        android:id="@+id/SelectLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageButton
+            android:id="@+id/btn_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:src="@drawable/ic_videoview_add" />
+
+        <ListView
+            android:id="@+id/listitem"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_above="@id/btn_add"
+            android:layout_weight="1"
+            android:drawSelectorOnTop="false"
+            android:gravity="center_vertical|left" >
+        </ListView>
+    </RelativeLayout>
+
+	<RelativeLayout
+		android:id="@+id/viewLayout"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" >
+		<com.arcvideo.vrkit.VRVideoView
+			android:id="@+id/textureView"
+			android:layout_width="fill_parent"
+			android:layout_height="fill_parent"
+			/>
+	</RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/MainLayout"
+        android:background="@android:color/transparent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/scale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:visibility="invisible" />
+        
+         <TextView
+            android:id="@+id/rotation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:visibility="invisible" />
+        
+        <RelativeLayout
+            android:id="@+id/top1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+            
+            
+            <TextView
+                android:id="@+id/metadata"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="10px"
+                android:paddingLeft="20px"
+                android:textColor="@color/yellow"
+                android:textSize="20px" />
+
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/bottoml"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:layout_alignParentBottom="true" >
+
+            <ImageButton
+                android:id="@+id/but_play_pausel"
+                android:layout_width="64dp"
+                android:layout_height="48dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@drawable/ic_videoview_play"
+                android:focusable="true" />
+
+            <ImageButton
+                android:id="@+id/but_stop"
+                android:layout_width="64dp"
+                android:layout_height="48dp"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/but_play_pausel"
+                android:background="@drawable/ic_videoview_stop"
+                android:focusable="true" />
+            
+            <Button 
+                android:id="@+id/but_control"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:text="触"
+                />
+            
+            <Button 
+                android:id="@+id/but_mode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/but_control"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:text="@string/mode_normal"
+                />
+            
+            <Button 
+                android:id="@+id/but_3d"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toLeftOf="@+id/but_mode"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"
+                android:text="左右"
+                />
+            
+            <SeekBar
+                android:id="@+id/seekBar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_gravity="right|bottom"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_toLeftOf="@+id/but_3d"
+                android:layout_toRightOf="@+id/but_stop"
+                android:max="100"
+                android:maxHeight="12dp"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:progress="30"
+                android:progressDrawable="@drawable/progress"
+                android:secondaryProgress="0"
+                android:background="@android:color/transparent"
+                android:thumb="@drawable/sliding_bar" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/bottom2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/bottoml"
+            android:layout_gravity="bottom" >
+
+            <TextView
+                android:id="@+id/time1"
+                android:layout_width="200px"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:gravity="left"
+                android:paddingLeft="20px"
+                android:text="00:00:00"
+                android:textColor="@color/white"
+                android:textSize="22px"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:text="idle"
+                android:textColor="@color/white"
+                android:textSize="22px"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/time2"
+                android:layout_width="200px"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:gravity="right"
+                android:paddingRight="20px"
+                android:text="00:00:00"
+                android:textColor="@color/white"
+                android:textSize="22px"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <ImageButton android:id="@+id/paramset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/face_off"
+            android:background="@android:color/transparent"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            />        
+        
+	    <RelativeLayout
+	        android:id="@+id/vrparam"
+	        android:layout_width="300dp"
+	        android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_centerHorizontal="true"
+	        android:layout_alignParentTop="true"
+	        android:visibility="gone"
+ 	        >
+	        <TextView
+	            android:id="@+id/lenslabel1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_alignParentTop="true"
+	            android:text="Lens-Lens:" />
+	        <TextView
+	            android:id="@+id/lenstext1"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+            	android:layout_marginLeft="5dp"
+	            android:layout_toRightOf="@id/lenslabel1"
+	            android:layout_alignBaseline="@id/lenslabel1"
+	            android:text="60mm" />
+	        <SeekBar
+	            android:id="@+id/lensparam1"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:maxHeight="3dp"
+	            android:paddingLeft="6dp"
+	            android:paddingRight="6dp"
+	            android:secondaryProgress="0"
+            	android:layout_below="@id/lenslabel1"
+	            android:background="@android:color/transparent"
+	            android:thumb="@drawable/sliding_bar" />
+	        <TextView
+	            android:id="@+id/lenslabel2"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_below="@id/lensparam1"
+	            android:text="Lens Height:" />
+	        <TextView
+	            android:id="@+id/lenstext2"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+            	android:layout_marginLeft="5dp"
+            	android:layout_toRightOf="@id/lenslabel2"
+	            android:layout_alignBaseline="@id/lenslabel2"
+	            android:text="35mm"  />        		        	        
+	        <SeekBar
+	            android:id="@+id/lensparam2"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:maxHeight="3dp"
+            	android:paddingLeft="6dp"
+	            android:paddingRight="6dp"
+	            android:secondaryProgress="0"
+	            android:layout_below="@id/lenslabel2"
+	            android:background="@android:color/transparent"
+	            android:thumb="@drawable/sliding_bar" />
+	        <TextView
+	            android:id="@+id/lenslabel3"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_alignParentLeft="true"
+	            android:layout_below="@id/lensparam2"
+	            android:text="Lens-Screen:" />
+	        <TextView
+	            android:id="@+id/lenstext3"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+            	android:layout_marginLeft="5dp"
+	            android:layout_toRightOf="@id/lenslabel3"
+	            android:layout_alignBaseline="@id/lenslabel3"
+	            android:text="42mm" />        	        
+	        <SeekBar
+	            android:id="@+id/lensparam3"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:maxHeight="3dp"
+	            android:paddingLeft="6dp"
+	            android:paddingRight="6dp"
+	            android:secondaryProgress="0"
+	            android:layout_below="@id/lenslabel3"
+	            android:background="@android:color/transparent"
+	            android:thumb="@drawable/sliding_bar" />
+	    </RelativeLayout>     	    
+        
+    </RelativeLayout>
+
+</AbsoluteLayout>
