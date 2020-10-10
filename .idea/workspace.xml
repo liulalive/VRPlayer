@@ -49,8 +49,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="0123456789ABCDEF" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-09-27T09:33:01.255Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="emulator-5554" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-10-10T06:14:17.716Z" />
     <property name="android.project.structure.last.selected" value="app" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="E:/software/Android_SDK/android_studio" />
@@ -233,6 +233,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="476" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602310262791">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="476" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.797@0.23.1440.797" timestamp="1602310262791" />
     <state x="308" y="210" key="AndroidCreateResourceFileDialog" timestamp="1601200057109">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -257,13 +261,13 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="109" y="123" width="1240" height="597" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.797@0.23.1440.797" timestamp="1601275353830" />
-    <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1601198539870">
+    <state x="399" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1602310695791">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="399" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1601198539870" />
-    <state x="386" y="178" width="667" height="486" key="find.popup" timestamp="1601279447290">
+    <state x="399" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1602310695791" />
+    <state x="386" y="178" width="667" height="486" key="find.popup" timestamp="1602310213313">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="386" y="178" width="667" height="486" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1601279447290" />
+    <state x="386" y="178" width="667" height="486" key="find.popup/0.23.1440.797@0.23.1440.797" timestamp="1602310213313" />
   </component>
 </project>

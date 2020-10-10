@@ -1,4 +1,4 @@
-#Mon Sep 28 15:48:50 CST 2020
-base.0=/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sat Oct 10 14:19:43 CST 2020
+base.0=/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

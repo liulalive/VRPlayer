@@ -1,146 +1,146 @@
 [
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_bar1.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/progress_bar1.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/icon.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_play.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_videoview_play.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_videoview_add.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/ic_videoview_add.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/layout_streamingplayer1.xml.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/layout/streamingplayer1.xml"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_stop.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_videoview_stop.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_sliding_bar.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/sliding_bar.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/icon.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_add.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_videoview_add.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_face_off.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/face_off.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable_bg_list_view_item.xml.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable/bg_list_view_item.xml"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_bar.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/progress_bar.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/layout_dialog_edit_text.xml.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/layout/dialog_edit_text.xml"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_sliding_bar.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/sliding_bar.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_stop.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_videoview_stop.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/layout/activity_main.xml"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_videoview_play.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/ic_videoview_play.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/icon.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_stop_push.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_videoview_stop_push.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_videoview_add.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/ic_videoview_add.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_bar_di.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/progress_bar_di.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_progress.xml.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/progress.xml"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_bar1.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/progress_bar1.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_pause.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_videoview_pause.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/layout_streamingplayer.xml.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/layout/streamingplayer.xml"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_videoview_pause.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/ic_videoview_pause.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_face_off.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/face_off.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_videoview_stop.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/ic_videoview_stop.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_face_on.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/face_on.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_bgl.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/bgl.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_videoview_stop.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/ic_videoview_stop.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_pause_push.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_videoview_pause_push.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_sliding_bar.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/sliding_bar.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_bar_di.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/progress_bar_di.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/layout_footer_selectview.xml.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/layout/footer_selectview.xml"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_bar.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/progress_bar.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_play.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_videoview_play.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/layout_streamingplayer1.xml.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/layout/streamingplayer1.xml"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_bgl.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/bgl.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/layout_streamingplayer.xml.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/layout/streamingplayer.xml"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_bgl.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/bgl.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_face_on.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/face_on.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-ldpi/icon.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_bgl.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/bgl.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_bar.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/progress_bar.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_play_push.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_videoview_play_push.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_stop_push.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_videoview_stop_push.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_launcher.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_play_push.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_videoview_play_push.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_sliding_bar.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/sliding_bar.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_pause.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_videoview_pause.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_progress.xml.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/progress.xml"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_bar1.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/progress_bar1.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/icon.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_pause_push.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_videoview_pause_push.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_videoview_play.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/ic_videoview_play.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_back.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/ic_videoview_back.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/layout_dialog_edit_text.xml.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/layout/dialog_edit_text.xml"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_bar.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/progress_bar.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_add.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_videoview_add.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_videoview_pause.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/ic_videoview_pause.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/layout_footer_selectview.xml.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/layout/footer_selectview.xml"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-hdpi_progress_bar_di.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-hdpi/progress_bar_di.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-mdpi/ic_launcher.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_bar_di.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/progress_bar_di.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_videoview_back.png.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable-hdpi/ic_videoview_back.png"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/build/intermediates/res/merged/debug/drawable_bg_list_view_item.xml.flat",
-        "source": "/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/res/drawable/bg_list_view_item.xml"
+        "merged": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/build/intermediates/res/merged/debug/drawable-mdpi_progress_bar1.png.flat",
+        "source": "/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/res/drawable-mdpi/progress_bar1.png"
     }
 ]

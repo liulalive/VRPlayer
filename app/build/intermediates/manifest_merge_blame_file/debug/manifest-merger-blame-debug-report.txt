@@ -6,316 +6,102 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="14"
-8-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+8-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="21" />
-9-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml
+9-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml
 10
 11    <uses-feature
-11-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:6:2-75
+11-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:6:2-75
 12        android:glEsVersion="0x00020000"
-12-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:6:16-48
+12-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:6:16-48
 13        android:required="true" />
-13-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:6:49-72
+13-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:6:49-72
 14    <uses-feature android:name="android.hardware.sensor.gyroscope" />
-14-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:7:5-70
-14-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:7:19-67
+14-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:7:5-70
+14-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:7:19-67
 15    <uses-feature android:name="android.hardware.sensor.accelerometer" />
-15-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:8:5-74
-15-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:8:19-71
+15-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:8:5-74
+15-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:8:19-71
 16    <uses-feature android:name="android.hardware.touchscreen.multitouch" />
-16-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:9:5-76
-16-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:9:19-73
+16-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:9:5-76
+16-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:9:19-73
 17
 18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-18-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:11:5-79
-18-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:11:22-76
+18-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:11:5-79
+18-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:11:22-76
 19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-19-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:12:5-79
-19-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:12:22-76
+19-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:12:5-79
+19-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:12:22-76
 20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-20-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:13:5-76
-20-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:13:22-73
+20-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:13:5-76
+20-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:13:22-73
 21    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
-21-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:14:5-79
-21-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:14:22-76
+21-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:14:5-79
+21-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:14:22-76
 22    <uses-permission android:name="android.permission.GET_TASKS" />
-22-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:15:5-68
-22-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:15:22-65
+22-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:15:5-68
+22-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:15:22-65
 23    <uses-permission android:name="android.permission.INTERNET" />
-23-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:16:5-67
-23-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:16:22-64
+23-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:16:5-67
+23-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:16:22-64
 24    <uses-permission android:name="android.permission.RAISED_THREAD_PRIORITY" />
-24-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:17:5-81
-24-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:17:22-78
+24-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:17:5-81
+24-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:17:22-78
 25    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-25-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:18:5-75
-25-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:18:22-72
+25-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:18:5-75
+25-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:18:22-72
 26    <uses-permission android:name="android.permission.READ_LOGS" />
-26-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:19:5-68
-26-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:19:22-65
+26-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:19:5-68
+26-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:19:22-65
 27    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-27-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:20:5-81
-27-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:20:22-78
+27-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:20:5-81
+27-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:20:22-78
 28    <uses-permission android:name="android.permission.VIBRATE" />
-28-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:21:5-66
-28-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:21:22-63
+28-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:21:5-66
+28-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:21:22-63
 29    <uses-permission android:name="android.permission.WAKE_LOCK" />
-29-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:22:5-68
-29-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:22:22-65
+29-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:22:5-68
+29-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:22:22-65
 30    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-30-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:23:5-81
-30-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:23:22-78
+30-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:23:5-81
+30-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:23:22-78
 31    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-31-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:24:5-73
-31-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:24:22-70
+31-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:24:5-73
+31-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:24:22-70
 32
 33    <application
-33-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:26:5-153:19
+33-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:26:5-43:19
 34        android:name="com.arcvideo.vrdemo.MyApplication"
-34-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:28:9-37
+34-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:28:9-37
 35        android:allowBackup="false"
-35-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:27:9-36
+35-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:27:9-36
 36        android:debuggable="true"
 37        android:icon="@drawable/icon"
-37-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:29:9-38
+37-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:29:9-38
 38        android:label="VRDemo"
-38-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:30:9-31
+38-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:30:9-31
 39        android:supportsRtl="true"
-39-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:31:9-35
+39-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:31:9-35
 40        android:testOnly="true" >
 41        <activity
-41-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:32:9-152:20
-42            android:name="com.arcvideo.vrdemo.Player1Activity"
-42-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:33:13-44
+41-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:32:9-41:20
+42            android:name="com.arcvideo.vrdemo.MainActivity"
+42-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:33:13-41
 43            android:configChanges="orientation|keyboardHidden|screenSize"
-43-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:34:13-74
-44            android:launchMode="singleTop"
-44-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:36:13-43
-45            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
-45-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:35:13-71
-46            <intent-filter>
-46-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:38:13-41:29
-47                <action android:name="android.intent.action.MAIN" />
-47-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:39:17-69
-47-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:39:25-66
-48
-49                <category android:name="android.intent.category.LAUNCHER" />
-49-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:40:17-77
-49-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:40:27-74
-50            </intent-filter>
-51            <intent-filter>
-51-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:43:13-50:29
-52                <action android:name="android.intent.action.VIEW" />
-52-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-52-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-53
-54                <category android:name="android.intent.category.DEFAULT" />
-54-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-54-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-55                <category android:name="android.intent.category.BROWSABLE" />
-55-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:47:17-78
-55-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:47:27-75
-56
-57                <data android:scheme="rtsp" />
-57-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-57-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-58            </intent-filter>
-59            <intent-filter>
-59-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:51:13-58:29
-60                <action android:name="android.intent.action.VIEW" />
-60-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-60-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-61
-62                <category android:name="android.intent.category.DEFAULT" />
-62-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-62-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-63                <category android:name="android.intent.category.BROWSABLE" />
-63-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:47:17-78
-63-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:47:27-75
-64
-65                <data android:scheme="rtmp" />
-65-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-65-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-66            </intent-filter>
-67            <intent-filter>
-67-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:59:13-65:29
-68                <action android:name="android.intent.action.VIEW" />
-68-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-68-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-69
-70                <category android:name="android.intent.category.DEFAULT" />
-70-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-70-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-71
-72                <data android:mimeType="audio/*" />
-72-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-72-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-73            </intent-filter>
-74            <intent-filter>
-74-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:66:13-74:29
-75                <action android:name="android.intent.action.VIEW" />
-75-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-75-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-76
-77                <category android:name="android.intent.category.DEFAULT" />
-77-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-77-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-78
-79                <data
-79-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-80                    android:mimeType="audio/*"
-80-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-81                    android:scheme="http" />
-81-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-82            </intent-filter>
-83            <intent-filter>
-83-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:75:13-81:29
-84                <action android:name="android.intent.action.VIEW" />
-84-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-84-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-85
-86                <category android:name="android.intent.category.DEFAULT" />
-86-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-86-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-87
-88                <data android:mimeType="video/*" />
-88-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-88-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-89            </intent-filter>
-90            <intent-filter>
-90-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:82:13-90:29
-91                <action android:name="android.intent.action.VIEW" />
-91-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-91-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-92
-93                <category android:name="android.intent.category.DEFAULT" />
-93-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-93-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-94
-95                <data
-95-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-96                    android:mimeType="video/*"
-96-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-97                    android:scheme="http" />
-97-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-98            </intent-filter>
-99            <intent-filter>
-99-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:91:13-97:29
-100                <action android:name="android.intent.action.VIEW" />
-100-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-100-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-101
-102                <category android:name="android.intent.category.DEFAULT" />
-102-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-102-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-103
-104                <data android:mimeType="application/sdp" />
-104-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-104-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-105            </intent-filter>
-106            <intent-filter>
-106-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:98:13-106:29
-107                <action android:name="android.intent.action.VIEW" />
-107-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-107-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-108
-109                <category android:name="android.intent.category.DEFAULT" />
-109-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-109-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-110
-111                <data
-111-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-112                    android:mimeType="application/sdp"
-112-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-113                    android:scheme="http" />
-113-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-114            </intent-filter>
-115            <intent-filter>
-115-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:107:13-115:29
-116                <action android:name="android.intent.action.VIEW" />
-116-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-116-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-117
-118                <category android:name="android.intent.category.DEFAULT" />
-118-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-118-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-119
-120                <data
-120-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-121                    android:mimeType="application/x-dtcp1"
-121-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-122                    android:scheme="http" />
-122-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-123            </intent-filter>
-124            <intent-filter>
-124-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:116:13-124:29
-125                <action android:name="android.intent.action.VIEW" />
-125-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-125-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-126
-127                <category android:name="android.intent.category.DEFAULT" />
-127-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-127-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-128
-129                <data
-129-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-130                    android:mimeType="application/vnd.apple.mpegurl"
-130-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-131                    android:scheme="http" />
-131-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-132            </intent-filter>
-133            <intent-filter>
-133-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:125:13-133:29
-134                <action android:name="android.intent.action.VIEW" />
-134-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-134-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-135
-136                <category android:name="android.intent.category.DEFAULT" />
-136-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-136-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-137
-138                <data
-138-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-139                    android:mimeType="audio/mpegurl"
-139-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-140                    android:scheme="http" />
-140-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-141            </intent-filter>
-142            <intent-filter>
-142-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:134:13-142:29
-143                <action android:name="android.intent.action.VIEW" />
-143-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-143-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-144
-145                <category android:name="android.intent.category.DEFAULT" />
-145-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-145-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-146
-147                <data
-147-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-148                    android:mimeType="audio/x-mpegurl"
-148-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-149                    android:scheme="http" />
-149-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-150            </intent-filter>
-151            <intent-filter>
-151-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:143:13-151:29
-152                <action android:name="android.intent.action.VIEW" />
-152-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:17-69
-152-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:44:25-66
-153
-154                <category android:name="android.intent.category.DEFAULT" />
-154-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:17-76
-154-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:46:27-73
-155
-156                <data
-156-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:17-47
-157                    android:mimeType="application/mpegURL"
-157-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:64:23-49
-158                    android:scheme="http" />
-158-->/Users/liu/Downloads/work/文档/当虹/NICU/ArcVideo_Player_SDK_Android@V3.5.0.28961_创业慧康/sample/VRDemo/app/src/main/AndroidManifest.xml:49:23-44
-159            </intent-filter>
-160        </activity>
-161    </application>
-162
-163</manifest>
+43-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:34:13-74
+44            android:screenOrientation="landscape" >
+44-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:35:13-50
+45            <intent-filter>
+45-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:37:13-40:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:38:17-69
+46-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:38:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:39:17-77
+48-->/Users/liu/Downloads/work/文档/生活/学习资料/demo/VRPlayer/app/src/main/AndroidManifest.xml:39:27-74
+49            </intent-filter>
+50        </activity>
+51    </application>
+52
+53</manifest>
