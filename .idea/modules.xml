@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VRDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/VRDemo.iml" group="VRDemo" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="VRDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/VRPlayer.iml" filepath="$PROJECT_DIR$/.idea/modules/VRPlayer.iml" group="VRPlayer" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="VRPlayer/app" />
     </modules>
   </component>
 </project>
