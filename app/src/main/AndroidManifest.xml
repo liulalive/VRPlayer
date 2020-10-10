@@ -1,7 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.arcvideo.vrdemo"
-    android:versionCode="1"
-    android:versionName="3.5.3.0" >
+    package="com.arcvideo.vrdemo" >
 
 	<uses-feature android:glEsVersion="0x00020000" android:required="true" />
     <uses-feature android:name="android.hardware.sensor.gyroscope" />
@@ -23,13 +21,13 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
     
-    <application
+    <!--  <application
         android:allowBackup="false"
         android:name="MyApplication"
         android:icon="@drawable/icon"
         android:label="VRDemo"
         android:supportsRtl="true">
-      <!--  <activity
+      <activity
             android:name=".MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:screenOrientation="landscape">
@@ -38,8 +36,8 @@
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>-->
+        </activity>
 
-    </application>
+    </application>-->
 
 </manifest>
